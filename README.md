@@ -10,7 +10,7 @@
 
 ## 💡 About Me
 
-- 🎓 Second-year IT undergraduate building useful, real-world tech  
+- 🎓 3rd year IT undergraduate building useful, real-world tech  
 - 🐧 Linux-first: tinkering, optimizing, and automating systems  
 - ⚙️ Focused on **DevOps**, **containerization**, and reliable CI/CD  
 - 🔭 Currently learning: Docker, GitHub Actions, Terraform basics, cloud fundamentals  
