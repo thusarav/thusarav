@@ -1,6 +1,6 @@
-<!-- Pixel Art Banner -->
+<!-- Banner: replace RAW_BANNER_URL with your raw.githubusercontent.com URL -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xBhushan/0xBhushan/main/assets/pixel-sunset.gif" width="100%" />
+  <img src="RAW_BANNER_URL" alt="Red Dead pixel banner" style="max-width:100%;height:auto" />
 </p>
 
 # 👋 Hey there, I'm Thusara Vibhuthi
@@ -12,79 +12,76 @@
 
 ## 💡 About Me
 
-- 🎓 Second-year IT undergraduate passionate about building useful, real-world tech  
-- 🐧 Linux-first mindset — always exploring, tweaking, and experimenting  
-- ⚙️ Diving deep into **DevOps**, **Cloud**, **Linux systems**, and **software architecture**  
-- 📦 Love building things from scratch: containers, pipelines, small tools, and workflows  
-- 🎮 When not coding: playing *Alien: Isolation* or optimizing my Linux Mint setup  
-- 🧩 Fun fact: I treat debugging like detective work — every bug is a case to solve  
+- 🎓 Second-year IT undergraduate building useful, real-world tech  
+- 🐧 Linux-first: tinkering, optimizing, and automating systems  
+- ⚙️ Focused on **DevOps**, **containerization**, and reliable CI/CD  
+- 🔭 Currently learning: Docker, GitHub Actions, Terraform basics, cloud fundamentals  
+- 🎮 When not building: playing *Alien: Isolation* or tweaking Linux Mint  
+- 🧩 Fun fact: I treat debugging like detective work — I follow the clues.
 
 ---
 
 ## 🚧 DevOps Journey
 
 ### 🔧 Tools I'm Learning
-- Linux (Mint/Ubuntu), Shell Scripting  
+- Linux (Mint/Ubuntu), Bash scripting  
 - Git, GitHub, GitHub Actions  
 - Docker, Docker Compose  
-- NGINX  
-- CI/CD Basics  
-- Cloud Fundamentals (AWS/Azure)  
-- Monitoring & Logs (beginner level)  
+- NGINX, basics of monitoring & logging  
+- Cloud fundamentals (AWS/Azure)  
+- Intro to IaC (Terraform)
 
 ### 🗺️ Roadmap Progress
-- [x] Linux basics + customization  
-- [x] Git fundamentals  
-- [x] Docker + Docker Compose (MERN app containerized)  
-- [ ] CI/CD pipeline mastery  
-- [ ] Cloud provider fundamentals (AWS/Azure)  
-- [ ] Infrastructure as Code (Terraform)  
-- [ ] Kubernetes intro  
-- [ ] Observability & monitoring  
+- [x] Linux basics & dotfiles  
+- [x] Git fundamentals, branching workflows  
+- [x] Dockerized full-stack MERN app (local + compose)  
+- [ ] CI/CD pipelines with GitHub Actions  
+- [ ] Deploy on cloud (AWS free tier proof-of-concept)  
+- [ ] Learn Terraform and IaC workflows  
+- [ ] Kubernetes fundamentals (minikube / kind)
 
 ### 🎯 Current Goals
-- Build more DevOps-focused projects  
-- Set up a personal CI/CD pipeline  
-- Deploy a small app on cloud (AWS free tier)  
-- Learn IaC (Terraform) through a mini infra project  
-- Contribute to open-source MERN/DevOps repos  
+- Build a personal CI/CD pipeline for a demo app  
+- Deploy a small app to cloud and monitor it  
+- Create a Linux utility toolkit for personal automation  
+- Contribute to beginner MERN/DevOps open-source
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tharushkadinujaya)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tharushkadinujaya)  
 
 ---
 
 ## 🧰 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,nginx,react,nodejs,express,mongodb,js,ts,html,css,bootstrap,python,cpp,java,figma" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,nginx,react,nodejs,mongodb,js,html,css,python,figma" />
 </p>
 
 ---
 
 ## 📦 Featured Projects
 
-### 🧊 MERN + Docker Full-Stack App  
-A containerized full-stack application using Docker Compose with isolated services, MongoDB, and GitHub Actions CI automation.
+**🧊 MERN + Docker Full-Stack App**  
+A containerized task manager (frontend + backend + MongoDB), developed with Docker Compose and automated builds via GitHub Actions.
 
-### 🐧 Linux Mint Utility Toolkit (Idea)  
-A Linux-focused automation/toolkit project for system monitoring, cleanup, and dotfiles — helping me go deeper into Linux + DevOps.
+**🐧 Linux Mint Utility Toolkit (Idea)**  
+A small toolkit for system monitoring, package cleanup, dotfiles sync and shortcuts — to deepen Linux + DevOps skills.
 
-### ☁️ DevOps Learning Setup  
-Ongoing: learning Docker, CI/CD, cloud basics, pipelines, and modern production workflows.
+**📱 MediLine LK (Prototype)**  
+University prototype mobile app for MediLine — UX prototype and initial feature set (from your module work).
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌟 “Build. Learn. Refine.”
+## 🌟 Build. Learn. Refine.
 
 > “Small habits today build the sharper engineer tomorrow.”
