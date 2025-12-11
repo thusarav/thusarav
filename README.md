@@ -1,3 +1,8 @@
+<!-- Pixel Art Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/U3vTG7e.gif" width="100%" />
+</p>
+
 # 👋 Hey there, I'm Thusara Vibhuthi
 
 🚀 Software Engineering Undergraduate | DevOps & Linux Enthusiast | Web Developer  
@@ -7,13 +12,42 @@
 
 ## 💡 About Me
 
-- 🎓 Second-year IT undergraduate passionate about building real-world solutions  
-- 🐧 Linux-first mindset — love tinkering, optimizing, and breaking things (then fixing with dignity)  
-- ⚙️ Currently exploring **DevOps**, **AWS/Azure**, **CI/CD pipelines**, and **Containerization**  
-- 🧠 Actively learning **MERN**, **Docker**, **GitHub Actions**, and **software architecture**  
-- 🔍 Always curious… maybe a polymath in progress 😉  
-- 🎮 When not coding: playing *Alien: Isolation* or tweaking my Linux Mint setup  
-- 🧩 Fun fact: I believe every good bug deserves its own detective arc  
+- 🎓 Second-year IT undergraduate passionate about building useful, real-world tech  
+- 🐧 Linux-first mindset — always exploring, tweaking, and experimenting  
+- ⚙️ Diving deep into **DevOps**, **Cloud**, **Linux systems**, and **software architecture**  
+- 📦 Love building things from scratch: containers, pipelines, small tools, and workflows  
+- 🎮 When not coding: playing *Alien: Isolation* or optimizing my Linux Mint setup  
+- 🧩 Fun fact: I treat debugging like detective work — every bug is a case to solve  
+
+---
+
+## 🚧 DevOps Journey
+
+### 🔧 Tools I'm Learning
+- Linux (Mint/Ubuntu), Shell Scripting  
+- Git, GitHub, GitHub Actions  
+- Docker, Docker Compose  
+- NGINX  
+- CI/CD Basics  
+- Cloud Fundamentals (AWS/Azure)  
+- Monitoring & Logs (beginner level)  
+
+### 🗺️ Roadmap Progress
+- [x] Linux basics + customization  
+- [x] Git fundamentals  
+- [x] Docker + Docker Compose (MERN app containerized)  
+- [ ] CI/CD pipeline mastery  
+- [ ] Cloud provider fundamentals (AWS/Azure)  
+- [ ] Infrastructure as Code (Terraform)  
+- [ ] Kubernetes intro  
+- [ ] Observability & monitoring  
+
+### 🎯 Current Goals
+- Build more DevOps-focused projects  
+- Set up a personal CI/CD pipeline  
+- Deploy a small app on cloud (AWS free tier)  
+- Learn IaC (Terraform) through a mini infra project  
+- Contribute to open-source MERN/DevOps repos  
 
 ---
 
@@ -33,14 +67,14 @@
 
 ## 📦 Featured Projects
 
-**🧊 MERN + Docker Full-Stack App**  
-Full-stack task manager with Docker Compose, isolated frontend/backend services, MongoDB, and GitHub Actions CI automation.
+### 🧊 MERN + Docker Full-Stack App  
+A containerized full-stack application using Docker Compose with isolated services, MongoDB, and GitHub Actions CI automation.
 
-**🐧 Linux Mint Toolkit Idea**  
-A Linux-focused utility project idea: system monitor, package cleanup, shortcuts, and dotfile automation — for building deeper Linux mastery.
+### 🐧 Linux Mint Utility Toolkit (Idea)  
+A Linux-focused automation/toolkit project for system monitoring, cleanup, and dotfiles — helping me go deeper into Linux + DevOps.
 
-**☁️ DevOps Learning Roadmap**  
-Currently progressing through Linux, Git, CI/CD, Docker, Kubernetes basics, and cloud fundamentals.
+### ☁️ DevOps Learning Setup  
+Ongoing: learning Docker, CI/CD, cloud basics, pipelines, and modern production workflows.
 
 ---
 
