@@ -48,7 +48,7 @@
 
 ## 🌐 Connect
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tharushkadinujaya)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/thusara-vibhuthi)  
 
 ---
 
