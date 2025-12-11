@@ -1,8 +1,7 @@
 <!-- Pixel Art Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/.github/workflows/desk.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/simonw/simonw/main/banner.gif" width="100%" />
 </p>
-
 
 # 👋 Hey there, I'm Thusara Vibhuthi
 
