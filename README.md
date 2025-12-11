@@ -1,7 +1,5 @@
 <!-- Banner: replace RAW_BANNER_URL with your raw.githubusercontent.com URL -->
-<p align="center">
-  <img src="RAW_BANNER_URL" alt="Red Dead pixel banner" style="max-width:100%;height:auto" />
-</p>
+[![MasterHead](https://gifdb.com/images/high/pixel-art-animated-toyoi-yuuta-yl28fl6e0r6ozvvk.gif)]()
 
 # 👋 Hey there, I'm Thusara Vibhuthi
 
